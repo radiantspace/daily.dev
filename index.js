@@ -1,1 +1,1 @@
-console.log('Hallo daily.dev')
+console.log('Hallo world')
