@@ -1,5 +1,5 @@
 function halloWorld() {
-    const message = 'Hallo world'
+    const message = 'Hallo daily.dev'
     console.log(message)
     return message
 }
