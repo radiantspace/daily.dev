@@ -1,0 +1,19 @@
+{
+  "name": "@radiantspace-daily-dev/halloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radiantspace/daily.dev.git"
+  },
+  "author": "Yury Nevalenny <radiantspace@github.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radiantspace/daily.dev/issues"
+  },
+  "homepage": "https://github.com/radiantspace/daily.dev#readme"
+}
