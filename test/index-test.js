@@ -3,6 +3,6 @@ const index = require('../index')
 
 describe('#halloWorld', function () {
     it('should return message', function () {
-        assert.strictEqual(index.halloWorld(), 'Hallo world');
+        assert.strictEqual(index.halloWorld(), 'Hallo daily.dev');
     });
 })
